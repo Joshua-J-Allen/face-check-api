@@ -1,2 +1,2 @@
 # face-check-api
-API for Face Check
+This is the API for Face Check
